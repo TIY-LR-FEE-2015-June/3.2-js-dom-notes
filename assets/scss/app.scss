@@ -1,0 +1,21 @@
+@import 'reset';
+@import 'bourbon';
+
+.hal {
+    background: radial-gradient(circle at center, #380009 0%, #26000C 25%, black 25%, black 30%, gray 30%);
+    background: black;
+    width: 100%;
+    height: 100vh;
+    display: block;
+    font-size: 4em;
+    font-family: monospace;
+    font-weight: bold;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.angry {
+    transition: background 500ms;
+    background: radial-gradient(circle at center, #AA6E0E 0%, #a90329 25%, black 25%, black 30%, gray 30%);
+    background: red;
+}

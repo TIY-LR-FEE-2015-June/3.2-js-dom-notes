@@ -1,0 +1,19 @@
+{
+  "name": "lesson-2",
+  "version": "0.0.0",
+  "authors": [
+    "Ryan Tablada <ryan.tablada@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "reset-css": "~2.0.2011012602",
+    "neat": "~1.7.2"
+  }
+}
